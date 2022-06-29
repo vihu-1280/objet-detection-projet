@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status
+{
+font-size: 18px;
+}
+P
+{
+font-size: large;
+font-weight: bold;
+color: yellow;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 100px;
+    
+}
